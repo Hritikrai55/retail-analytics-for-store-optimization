@@ -2,6 +2,8 @@
 
 A comprehensive data analytics project focused on analyzing retail store performance and optimizing operations through data-driven insights.
 
+- 🎓 [Project Certification](https://verified.sertifier.com/en/verify/68712624957870/)
+
 ## 📊 Project Overview
 
 This project analyzes retail sales data to provide actionable insights for store optimization. By examining sales patterns, external factors, and store characteristics, the analysis helps identify opportunities for improving retail performance and strategic decision-making.
